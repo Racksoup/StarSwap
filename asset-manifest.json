@@ -1,15 +1,15 @@
 {
   "main.css": "/StarSwap/static/css/main.f90fd166.chunk.css",
-  "main.js": "/StarSwap/static/js/main.8300fe0a.chunk.js",
-  "main.js.map": "/StarSwap/static/js/main.8300fe0a.chunk.js.map",
+  "main.js": "/StarSwap/static/js/main.914eda03.chunk.js",
+  "main.js.map": "/StarSwap/static/js/main.914eda03.chunk.js.map",
   "static/js/1.916b373c.chunk.js": "/StarSwap/static/js/1.916b373c.chunk.js",
   "static/js/1.916b373c.chunk.js.map": "/StarSwap/static/js/1.916b373c.chunk.js.map",
   "runtime~main.js": "/StarSwap/static/js/runtime~main.c7b3a724.js",
   "runtime~main.js.map": "/StarSwap/static/js/runtime~main.c7b3a724.js.map",
   "static/css/main.f90fd166.chunk.css.map": "/StarSwap/static/css/main.f90fd166.chunk.css.map",
-  "static/media/unnamed.png": "/StarSwap/static/media/unnamed.6c407022.png",
-  "static/media/starswap.png": "/StarSwap/static/media/starswap.4f41b80d.png",
+  "static/media/unnamed.png": "/StarSwap/static/media/unnamed.05099a28.png",
+  "static/media/starswap.png": "/StarSwap/static/media/starswap.c9b310fb.png",
   "index.html": "/StarSwap/index.html",
-  "precache-manifest.89c8008055f582d48b3758b4c682873d.js": "/StarSwap/precache-manifest.89c8008055f582d48b3758b4c682873d.js",
+  "precache-manifest.e2eccfea1b2a0ab90747c57c46988822.js": "/StarSwap/precache-manifest.e2eccfea1b2a0ab90747c57c46988822.js",
   "service-worker.js": "/StarSwap/service-worker.js"
 }
