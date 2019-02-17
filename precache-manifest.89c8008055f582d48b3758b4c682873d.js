@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/StarSwap/static/js/runtime~main.c7b3a724.js"
   },
   {
-    "revision": "483f7d37295caa2b6faf",
-    "url": "/StarSwap/static/js/main.483f7d37.chunk.js"
+    "revision": "8300fe0ae7072cdbfb4f",
+    "url": "/StarSwap/static/js/main.8300fe0a.chunk.js"
   },
   {
     "revision": "916b373cfef80c85a28b",
     "url": "/StarSwap/static/js/1.916b373c.chunk.js"
   },
   {
-    "revision": "483f7d37295caa2b6faf",
-    "url": "/StarSwap/static/css/main.f671af30.chunk.css"
+    "revision": "8300fe0ae7072cdbfb4f",
+    "url": "/StarSwap/static/css/main.f90fd166.chunk.css"
   },
   {
-    "revision": "653886481863f37579266b0e74ee2b68",
+    "revision": "ac1be722101f62b0bafd9d6681a5f824",
     "url": "/StarSwap/index.html"
   }
 ];
